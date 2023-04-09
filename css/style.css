@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(#d14d72, #ffabab);
+}
+h1 {
+    color: #ffabab;
+    font-size: 200px;
+    text-align: left;
+    margin: 0;
+}
+h1:hover {
+    color: #fcc8d1;
+    background: #d14d72;
+}
+h3 {
+    color: #fcc8d1;
+    font-size: 35px;
+    margin: 0;
+}
+p, li {
+    color:#fef2f4;
+    font-size: 25px;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+    display: block;
+}
+hr {
+    width: 5%;
+    border-style: dotted none none;
+    border-color: #d14d72;
+    border-width: 5px;
+}
